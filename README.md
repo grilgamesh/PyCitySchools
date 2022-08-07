@@ -1,8 +1,8 @@
 # PyCitySchools 
 
-This project answers some set questions about some data, which have to be imported, merged, and manipulated in various ways in order to find the results. 
+This project answers some set questions about some data, which have to be imported, merged, and manipulated in various ways in order to find the results. Pandas and Numpy are utilised to wrangle the data.
 
-Detailed comments and conclusions are in the code file.
+Detailed comments  are in the code file.
 
 
 
