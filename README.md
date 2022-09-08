@@ -4,7 +4,10 @@ This project answers some set questions about some data, which have to be import
 
 Detailed comments  are in the code file.
 
-
+## Technology used:
+* Python
+* Pandas
+* Numpy
 
 ## Conclusions
 1:
