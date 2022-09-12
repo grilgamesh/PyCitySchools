@@ -8,6 +8,7 @@ Detailed comments  are in the code file.
 * Python
 * Pandas
 * Numpy
+![image](https://user-images.githubusercontent.com/98031776/189631051-ce7860fe-0eca-4b54-8a8e-5f52f8b62395.png)
 
 ## Conclusions
 1:
